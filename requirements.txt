@@ -1,0 +1,4 @@
+requests
+pyyaml
+web3
+python-telegram-bot
